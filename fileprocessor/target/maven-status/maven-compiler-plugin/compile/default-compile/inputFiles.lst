@@ -1,0 +1,7 @@
+/Users/martimramalho/code/fileprocessor/src/main/java/com/CD/fileprocessor/FileprocessorApplication.java
+/Users/martimramalho/code/fileprocessor/src/main/java/com/CD/fileprocessor/controller/FileProcessorController.java
+/Users/martimramalho/code/fileprocessor/src/main/java/com/CD/fileprocessor/exception/FileValidationException.java
+/Users/martimramalho/code/fileprocessor/src/main/java/com/CD/fileprocessor/exception/GlobalExceptionHandler.java
+/Users/martimramalho/code/fileprocessor/src/main/java/com/CD/fileprocessor/model/EntryData.java
+/Users/martimramalho/code/fileprocessor/src/main/java/com/CD/fileprocessor/model/OutcomeData.java
+/Users/martimramalho/code/fileprocessor/src/main/java/com/CD/fileprocessor/service/FileProcessingService.java
